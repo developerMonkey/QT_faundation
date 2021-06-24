@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/file">
+        <file>chemistry.jpg</file>
+        <file>chinese.jpg</file>
+        <file>english.jpg</file>
+        <file>physics.jpg</file>
+        <file>mathematics.jpg</file>
+    </qresource>
+</RCC>
